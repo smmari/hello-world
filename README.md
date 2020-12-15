@@ -3,8 +3,8 @@ First Steps
 
 Hi everybody, 
 
-I added a few lines to the file to see changes and explore GlitHub. 
+I added a few lines to the file to see changes and explore GitHub. 
 
-Kind redards, 
+Kind regards, 
 
 Marina
