@@ -1,10 +1,9 @@
 # hello-world
 First Steps
 
-Hi everybody, 
+Hi, 
 
-I added a few lines to the file to see changes and explore GitHub. 
+I use this repository to explore GitHub. 
 
 Kind regards, 
-
-Marina
+smmari
